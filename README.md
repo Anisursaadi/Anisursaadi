@@ -1,154 +1,129 @@
-<div align="center">
 
-# Hi 👋, I'm Anisur Rahman Shakshadi
+<!-- GitHub Profile README | Anisursaadi | Premium AI Engineering Edition -->
 
-### AI Automation Engineer
+<p align="center">
+  <img width="100%" alt="AI Automation Engineering banner" src="https://capsule-render.vercel.app/api?type=rect&amp;height=190&amp;color=0:0B1220,50:1D4ED8,100:6D28D9&amp;text=AI%20AUTOMATION%20ENGINEERING&amp;fontColor=FFFFFF&amp;fontSize=36&amp;fontAlignY=43&amp;desc=INTELLIGENT%20WORKFLOWS%20%7C%20DATA%20SYSTEMS&amp;descAlignY=66&amp;descSize=16&amp;animation=fadeIn" />
+</p>
 
-**Python • AI Agents • LLM Integrations • APIs • Data Pipelines**
+<h1 align="center">Anisur Rahman Shakshadi</h1>
 
-I design and build practical AI-powered automation systems for real-world business workflows.
+<p align="center">
+  <strong>AI Automation Engineer</strong><br />
+  Python &bull; AI Agents &bull; LLM Integrations &bull; APIs &bull; Data Pipelines
+</p>
 
-<br>
+<p align="center">
+  I design and build AI-powered workflows that connect intelligent models,<br />
+  reliable software, structured data, and real business operations.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anisurshakshadi/)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ashakshadi)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm an **AI Automation Engineer** focused on building reliable systems that combine artificial intelligence, Python, APIs, structured data, and workflow automation.
-
-I work on solutions that move beyond simple AI demonstrations and solve practical operational problems — from intelligent data processing and API integrations to multi-step automation workflows.
-
-My primary areas of work include:
-
-- 🤖 AI agents and agentic workflows
-- 🧠 LLM and AI API integrations
-- 🐍 Python automation and backend development
-- 🔗 REST APIs, webhooks, and system integrations
-- 📊 ETL, data transformation, and validation pipelines
-- 📄 Structured and unstructured data processing
-- ⚙️ Business process and workflow automation
-- 🛒 E-commerce and product data automation
+<p align="center">
+  <a href="https://www.linkedin.com/in/anisurshakshadi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/ashakshadi"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-Work%20With%20Me-14A800?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" /></a>
+  <a href="https://github.com/Anisursaadi?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/badge/GitHub-Repositories-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+</p>
 
 ---
 
-## 🧠 Core Capabilities
+## 👨‍💻 About
 
-### AI & LLM Systems
+I work at the intersection of **AI, Python engineering, API integration, and business process automation**. My focus is turning repetitive or data-heavy operations into maintainable systems with clear inputs, reliable processing, and useful outputs.
 
-Designing AI-powered workflows that combine language models with APIs, tools, business rules, structured data, and automated actions.
+I care about **data quality, validation, error handling, and practical deployment**—not just AI features that look impressive in a demo.
 
-### AI Agents
+## ⚡ Engineering Focus
 
-Building multi-step agent workflows capable of processing information, making decisions, calling tools, validating outputs, and executing defined actions.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Agents & LLM Systems</h3>
+      <p>Tool-enabled AI workflows, structured model outputs, business-rule checks, and API-connected applications.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 Python Automation</h3>
+      <p>Repeatable backend processes, scheduled jobs, browser workflows, and integrations that reduce manual effort.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Data Engineering & Quality</h3>
+      <p>ETL, normalization, validation, document processing, enrichment, and clean structured datasets.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 APIs & Business Systems</h3>
+      <p>REST APIs, webhooks, data synchronization, e-commerce operations, and service-to-service workflows.</p>
+    </td>
+  </tr>
+</table>
 
-### Python Automation
+## 🧰 Technologies & Tools
 
-Developing Python-based systems that replace repetitive manual processes with reliable and maintainable automation.
+<p align="center">
+  <img alt="Development technologies: Python, FastAPI, JavaScript, Git, GitHub, and Visual Studio Code" src="https://skillicons.dev/icons?i=python,fastapi,js,git,github,vscode&amp;theme=dark&amp;perline=6" />
+</p>
 
-### API Integration
+<p align="center">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" />
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-0E7490?style=flat-square" />
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-111827?style=flat-square&amp;logo=json&amp;logoColor=white" />
+  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&amp;logo=googlesheets&amp;logoColor=white" />
+  <img alt="ETL" src="https://img.shields.io/badge/ETL%20Pipelines-6D28D9?style=flat-square" />
+  <img alt="Data Validation" src="https://img.shields.io/badge/Data%20Validation-2563EB?style=flat-square" />
+</p>
 
-Connecting applications, AI services, databases, third-party platforms, and internal systems using REST APIs, webhooks, and structured data exchange.
+## 🧠 How I Structure AI Automation
 
-### Data Engineering
+An illustrative architecture for connecting inputs, models, validation, and downstream actions:
 
-Building pipelines for data collection, normalization, transformation, validation, enrichment, and delivery.
+```mermaid
+flowchart LR
+    A["Business Input"] --> B["Python / API Layer"]
+    B --> C["AI + Rules Processing"]
+    C --> D["Validation"]
+    D --> E["Automated Action"]
+    D --> F["Structured Output"]
+```
 
-### Business Workflow Automation
+**Engineering priorities:** predictable behavior · validation before action · useful logs · recoverable failures · maintainable integrations.
 
-Translating operational processes into automated workflows designed to reduce manual effort and improve consistency.
+## 🏗️ Systems I Focus On
 
----
+| Area | Typical engineering problems |
+| :--- | :--- |
+| **AI & agentic workflows** | Tool calling, structured outputs, multi-step orchestration, human review |
+| **Python automation** | Repetitive processes, scheduled tasks, workflow coordination |
+| **Data pipelines** | Extraction, cleanup, transformation, deduplication, validation |
+| **Document processing** | Unstructured content to usable JSON, CSV, or spreadsheets |
+| **API integration** | Connecting internal tools, third-party services, and AI models |
+| **E-commerce operations** | Product data QA, catalog workflows, and system synchronization |
 
-## 🛠️ Technology Stack
+<!--
+FEATURED PROJECTS: Activate this section after public demonstration repositories exist.
+Replace example repository paths with real published projects before removing this comment.
 
-### AI & LLM
+## 🚀 Featured Projects
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Integration-6C63FF?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111111?style=flat-square)
+| Project | What it demonstrates |
+| :--- | :--- |
+| [AI Agent Workflow](https://github.com/Anisursaadi/REPLACE-WITH-REAL-REPOSITORY) | LLM orchestration, tool use, and output validation |
+| [Data Quality Pipeline](https://github.com/Anisursaadi/REPLACE-WITH-REAL-REPOSITORY) | Python ETL, validation, and structured outputs |
+-->
 
-### Languages & Backend
+## 🤝 Let's Connect
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+Interested in **AI automation, Python development, LLM integrations, data workflows, or APIs**? I'm open to discussing freelance and contract projects.
 
-### Data & Integration
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/ashakshadi"><strong>Upwork Portfolio</strong></a>
+  &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/anisurshakshadi/"><strong>LinkedIn</strong></a>
+  &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="https://github.com/Anisursaadi?tab=repositories"><strong>GitHub Projects</strong></a>
+</p>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+<p align="center"><strong>Building dependable AI automation for real-world operations.</strong></p>
 
-### Development
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## ⚙️ What I Build
-
-### 🤖 AI Agent Workflows
-
-Multi-step AI systems that combine LLM reasoning, APIs, tools, validation logic, and automated actions.
-
-### 🧠 LLM-Powered Applications
-
-Applications and backend workflows that integrate large language models with business systems and structured data.
-
-### 📊 Intelligent Data Pipelines
-
-Automated pipelines for transforming, validating, enriching, categorizing, and preparing business data.
-
-### 🔗 API & System Integrations
-
-Reliable integrations between external services, internal applications, databases, and AI platforms.
-
-### 📄 Document & Data Processing
-
-Workflows that convert semi-structured or unstructured information into clean, structured outputs such as JSON, CSV, Excel, or database-ready records.
-
-### 🛒 E-commerce Automation
-
-Product data processing, catalog preparation, validation, image organization, inventory workflows, and platform integrations.
-
----
-
-## 🎯 Current Focus
-
-Building production-oriented systems around:
-
-`AI Agents` • `Agentic Workflows` • `LLM Applications` • `Python Automation`
-
-`API Integration` • `Data Engineering` • `AI Data Validation` • `Business Automation`
-
----
-
-## 🤝 Work With Me
-
-I'm open to freelance, contract, and collaboration opportunities involving:
-
-**AI Automation • AI Agents • Python Automation • LLM Integration • API Integration • Data Engineering**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anisur_Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anisurshakshadi/)
-
-[![Upwork](https://img.shields.io/badge/Upwork-View_Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ashakshadi)
-
-<br>
-
-### Building reliable AI automation for real-world operations.
-
-</div>
+<p align="center">
+  <img width="100%" alt="Blue and violet footer wave" src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=100&amp;color=0:0B1220,50:1D4ED8,100:6D28D9" />
+</p>

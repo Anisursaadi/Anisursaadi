@@ -110,6 +110,46 @@ Replace example repository paths with real published projects before removing th
 | [Data Quality Pipeline](https://github.com/Anisursaadi/REPLACE-WITH-REAL-REPOSITORY) | Python ETL, validation, and structured outputs |
 -->
 
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/Anisursaadi/ai-agent-workflow-system">
+  <img src="https://raw.githubusercontent.com/Anisursaadi/ai-agent-workflow-system/main/assets/social-preview.png" alt="AI Agent Workflow System" width="78%" />
+</a>
+
+### 🤖 [AI Agent Workflow System](https://github.com/Anisursaadi/ai-agent-workflow-system)
+
+**Python • OpenAI Responses API • Function Calling • Workflow Automation**
+
+An auditable AI agent demonstration featuring tool-enabled workflows, policy validation, structured business data, and human oversight.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Tests](https://github.com/Anisursaadi/ai-agent-workflow-system/actions/workflows/tests.yml/badge.svg)
+![License](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
+
+</div>
+
+### Key Features
+
+- 🤖 **AI Tool Calling:** Optional OpenAI integration with controlled tool execution.
+- 🛡️ **Policy Validation:** Rule-based checks for business decisions.
+- 🔒 **Human Oversight:** Sensitive actions require human review.
+- ⚙️ **Offline Mode:** Run the demonstration without an API key.
+- 🧪 **Automated Testing:** Reproducible tests with GitHub Actions.
+- 🌐 **REST API:** Local endpoints for workflow evaluation.
+
+<div align="center">
+
+**[Explore Source Code & Documentation](https://github.com/Anisursaadi/ai-agent-workflow-system)**
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 Interested in **AI automation, Python development, LLM integrations, data workflows, or APIs**? I'm open to discussing freelance and contract projects.

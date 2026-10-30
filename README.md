@@ -77,7 +77,7 @@ I care about **data quality, validation, error handling, and practical deploymen
 An illustrative architecture for connecting inputs, models, validation, and downstream actions:
 
 ```mermaid
-flowchart LR
+flowchart TD
     A["Business Input"] --> B["Python / API Layer"]
     B --> C["AI + Rules Processing"]
     C --> D["Validation"]
